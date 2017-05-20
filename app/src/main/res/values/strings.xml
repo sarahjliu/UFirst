@@ -1,4 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">UFirst</string>
+    <string name="title_activity_list">list</string>
+    <string-array name="events_array">
+        <item>Anna's Birthday 05/12/17</item>
+        <item>My's Graduation 05/18/17</item>
+        <item>Arielle's Hawaii Vacation 05/20/17</item>
+    </string-array>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_items">ItemsActivity</string>
+    <string-array name="image_ids">
+        <item>@drawable/bday_hat</item>
+    </string-array>
 </resources>
